@@ -1,4 +1,4 @@
-# Introduction_To_Machine_Learning_Project
+# Introduction To Machine Learning Semester Project
 #### Ahmet Doruk Güngör
 Introduction to Machine Learning lecture semester project
 
