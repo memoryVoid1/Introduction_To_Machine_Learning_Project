@@ -2,7 +2,7 @@
 #### Ahmet Doruk Güngör
 Introduction to Machine Learning lecture semester project
 
-This project encompasses 3 parts of a novice ML project
+This project encompasses 3 parts of a novice ML project <br>
 Main goal of this project is to use a steam review + genre & categories of games dataset 
 to assess the game prefernces of Turkish steam users. 
 
